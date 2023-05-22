@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "7bvsyOsKYQjvPfnAilw/Yzv4vD0yYea+9950otGJNNkeTJRR/Yy5ycSMY/Ug1ZRNWT8vwJiOpBpwHT09X19AwA==",
+  "success": true,
+  "projectFilePath": "/Users/thegreataxios/skale/skale-csharp/CLI/CLI.csproj",
+  "expectedPackageFiles": [
+    "/Users/thegreataxios/.nuget/packages/bnsharp/1.0.0/bnsharp.1.0.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nbitcoin.secp256k1/1.0.3/nbitcoin.secp256k1.1.0.3.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.abi/4.14.0/nethereum.abi.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.accounts/4.14.0/nethereum.accounts.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.blockchainprocessing/4.14.0/nethereum.blockchainprocessing.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.contracts/4.14.0/nethereum.contracts.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.hex/4.14.0/nethereum.hex.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.jsonrpc.client/4.14.0/nethereum.jsonrpc.client.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.jsonrpc.rpcclient/4.14.0/nethereum.jsonrpc.rpcclient.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.keystore/4.14.0/nethereum.keystore.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.merkle.patricia/4.14.0/nethereum.merkle.patricia.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.model/4.14.0/nethereum.model.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.rlp/4.14.0/nethereum.rlp.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.rpc/4.14.0/nethereum.rpc.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.signer/4.14.0/nethereum.signer.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.signer.eip712/4.14.0/nethereum.signer.eip712.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.util/4.14.0/nethereum.util.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/nethereum.web3/4.14.0/nethereum.web3.4.14.0.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/thegreataxios/.nuget/packages/portable.bouncycastle/1.8.2/portable.bouncycastle.1.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
